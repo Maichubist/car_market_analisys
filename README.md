@@ -1,5 +1,5 @@
 <body>
-    <h1>Analysis of the Ukrainian car market</h1>
+    <h1>Analysis of the Ukrainian car market wihh Power BI</h1>
     <p><b>The goal of the project:</b></p>
         <li>to investigate the state of the automobile market in Ukraine;</li>
         <li>to find dependencies and regularities</li>
